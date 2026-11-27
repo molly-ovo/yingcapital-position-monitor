@@ -56,7 +56,7 @@ jobs:
         continue-on-error: true
         env:
           TRADERS_CONFIG_PATH: "traders.json"
-          MONITOR_TIMEZONE: "America/New_York"
+          MONITOR_TIMEZONE: "Asia/Shanghai"
           MONITOR_STATE_DIR: ".runtime"
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
