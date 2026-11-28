@@ -5,9 +5,14 @@
     "enabled": true
   },
   {
+    "nickname": "捉妖鸭哥",
+    "portfolio_id": "5311186135716482304",
+    "enabled": true
+  },
+  {
     "nickname": "发烧好了呢",
     "portfolio_id": "5271501457743196416",
-    "enabled": true
+    "enabled": false
   },
   {
     "nickname": "Bran Brandon",
@@ -17,7 +22,7 @@
   {
     "nickname": "金木爱交易",
     "portfolio_id": "5305355976370339073",
-    "enabled": true
+    "enabled": false
   },
   {
     "nickname": "Btc星辰",
@@ -32,12 +37,12 @@
   {
     "nickname": "Q曦和Q",
     "portfolio_id": "4906886426742106368",
-    "enabled": true
+    "enabled": false
   },
   {
     "nickname": "赏你一个甜蜜蜜",
     "portfolio_id": "5141621486582775041",
-    "enabled": true
+    "enabled": false
   },
   {
     "nickname": "MAXIMUM001",
